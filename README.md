@@ -36,9 +36,3 @@ make
 cd ../..
 
 را بزنید و تمام حال ربات اماده است که به صورت بلد کارکند.
-
-#نویسنده سورس
-
-# [Abolfazl] (https://telegram.me/iampoker)
-#حل مشکلات
-[اینجا کلیک کنید](https://telegram.me/iampokerbot)
